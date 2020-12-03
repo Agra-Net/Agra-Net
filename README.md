@@ -11,13 +11,20 @@ Download [Here](https://bit.ly/3i3opkf)
 My [Instagram](https://bit.ly/2GwDlun)
 
 ## Featured Server Minecraft
+
+----------------------------Cubecraft
+
 play.cubecraft.net
 
 Port : Default
 
+----------------------------The Hive
+
 play.hivemc.com
 
 Port : Default
+
+-----------------------------Hypixel Pocket Edition
 
 play.nethergames.org
 
