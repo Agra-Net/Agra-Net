@@ -12,12 +12,15 @@ My [Instagram](https://bit.ly/2GwDlun)
 
 ## Featured Server Minecraft
 play.cubecraft.net
+
 Port : Default
 
 play.hivemc.com
+
 Port : Default
 
 play.nethergames.org
+
 Port : Default
 
 ## Minecraft Friends!
@@ -32,7 +35,9 @@ Port : Default
 
 ## How to download
 1 - Click Database
+
 2 - View Code
+
 3 - Enjoy your downloaded files!
 
 ## Github Creator
