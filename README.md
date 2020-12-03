@@ -1,15 +1,43 @@
-### Welcome AgraNetwork Or FFF Teams
+### Welcome To Agra-Net
 
 
-An Usual,I am Lazy
+Glad to meet you here.
+Please Choose 
 
-Got em boii
 
 Minecraft Player
 Download [Here](https://bit.ly/3i3opkf)
 
 My [Instagram](https://bit.ly/2GwDlun)
 
-## Rules
-You're Cannot Edit This Github
+## Featured Server Minecraft
+play.cubecraft.net
+Port : Default
+
+play.hivemc.com
+Port : Default
+
+play.nethergames.org
+Port : Default
+
+## Minecraft Friends!
+- Loppy2009
+- BOSMOEDA18
+- Dx Cerberus 1
+
+## Minecraft Favorites Friends!
+- BOSMOEDA18
+- Farkedar76
+- Dx Cerberus 1
+
+## How to download
+1 - Click Database
+2 - View Code
+3 - Enjoy your downloaded files!
+
+## Github Creator
+Contact me :
+kirimpesan.faris000@gmail.com
+
+
 
