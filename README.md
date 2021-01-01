@@ -5,10 +5,10 @@ Glad to meet you here.
 Please Choose 
 
 
-Minecraft Player
-Download [Here](https://bit.ly/3i3opkf)
 
-My [Instagram](https://bit.ly/2GwDlun)
+[Minecraft](https://bit.ly/3i3opkf)
+
+[Instagram](https://bit.ly/2GwDlun)
 
 ## Featured Server Minecraft
 
@@ -43,13 +43,12 @@ Port : Default
 ## How to download
 1 - Click Database
 
-2 - View Code
+2 - Click "View Code"
 
 3 - Enjoy your downloaded files!
 
 ## Github Creator
 Contact me :
-kirimpesan.faris000@gmail.com
-
+playgame.farisjihadih@gmail.com
 
 
