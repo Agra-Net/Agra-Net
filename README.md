@@ -6,7 +6,7 @@ Please Choose
 
 
 
-[Minecraft Account](https://github.com/FFF-Net/HHH/tree/main)
+[Minecraft Account](https://github.com/FFF-Net/HHH)
 
 [Instagram](https://bit.ly/2GwDlun)
 
