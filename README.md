@@ -36,14 +36,13 @@ play.nethergames.org
 
 Port : Default
 
-## Minecraft Friends!
+## Minecraft Account Name!
 - Loppy2009
 - BOSMOEDA18
 - Dx Cerberus 1
 
 ## Minecraft Favorites Friends!
 - BOSMOEDA18
-- Farkedar76
 - Dx Cerberus 1
 
 ## How to download
