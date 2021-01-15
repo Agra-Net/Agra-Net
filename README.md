@@ -14,7 +14,7 @@ Please Choose
 
 [Database](https://github.com/FFF-Net/Database)
 
-[MinecraftDatabase](https://github.com/FFFNet/Minecraft-Database)
+[Minecraft-Database](https://github.com/FFFNet/Minecraft-Database)
 
 ## Featured Server Minecraft
 
