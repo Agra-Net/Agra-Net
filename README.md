@@ -20,19 +20,19 @@ Please Choose
 
 ## Featured Server Minecraft
 
-----------------------------Cubecraft
+---------------------------- Cubecraft
 
 play.cubecraft.net
 
 Port : Default
 
-----------------------------The Hive
+---------------------------- The Hive
 
 play.hivemc.com
 
 Port : Default
 
------------------------------Hypixel Pocket Edition
+----------------------------- Hypixel Pocket Edition
 
 play.nethergames.org
 
