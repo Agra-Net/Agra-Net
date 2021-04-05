@@ -56,6 +56,6 @@ Port : Default
 
 ## Github Creator
 Contact me :
-playgame.farisjihadih@gmail.com
+farisjihadih@outlook.com
 
 
