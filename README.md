@@ -10,7 +10,7 @@ Please Choose
 
 [Instagram](https://bit.ly/2GwDlun)
 
-## Repositories
+## ⇅ Repositories
 
 [Database](https://github.com/FFF-Net/Database)
 
@@ -18,7 +18,7 @@ Please Choose
 
 [batchcoding](https://github.com/FFF-Net/batchcoding)
 
-## Featured Server Minecraft
+## ⋌ Featured Server Minecraft
 
 ---------------------------- Cubecraft
 
@@ -38,23 +38,23 @@ play.nethergames.org
 
 Port : Default
 
-## Minecraft Account Name!
+## + Minecraft Account Name!
 - Loppy2009
 - BOSMOEDA18
 - Dx Cerberus 1
 
-## Minecraft Favorites Friends!
+## + Minecraft Favorites Friends!
 - BOSMOEDA18
 - Dx Cerberus 1
 
-## How to download
+## ↓ How to download
 1 - Click Database
 
 2 - Click "View Code"
 
 3 - Enjoy your downloaded files!
 
-## Github Creator
+## <> Github Creator
 Contact me :
 farisjihadih@outlook.com
 
