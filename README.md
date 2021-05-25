@@ -1,6 +1,7 @@
 ### Welcome To FFFNetwork
 
 <a href="https://github.com/FFF-Net/HHH"><img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/32/Minecraft-2-icon.png"></a>
+<a href="https://discord.gg/wTnMzqnJTA"><img src="https://cdn.icon-icons.com/icons2/1945/PNG/32/iconfinder-discord-4661587_122459.png"></a>
 
 Glad to meet you here.
 Please Choose 
