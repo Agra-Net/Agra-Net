@@ -21,6 +21,8 @@ A repository name [Minecraft-Database](https://www.github.com/FFF-Net/Minecraft-
 
 [batchcoding](https://github.com/FFF-Net/batchcoding)
 
+[pythonbotdev](https://github.com/FFF-Net/pythonbotdev)
+
 ## ⋌ Featured Server Minecraft
 
 ---------------------------- Cubecraft
