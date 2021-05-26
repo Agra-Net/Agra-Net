@@ -6,14 +6,15 @@
 
 ### Continue
 
-Glad to meet you here.
-Please Choose 
+Glad to meet you here 😄, Please choose a file or source code for coding
+[Download VSCode](https://code.visualstudio.com/download)
+*Note: If you want lol*
 
 ### ⚠ Warning!
 A repository name [Minecraft-Database](https://www.github.com/FFF-Net/Minecraft-Database) Contains a hack or cheat!
 
 
-## ⇅ Repositories (Click the image to go)
+## ⇅ Repositories (Click the *image* to go)
 ### Database
 <a href="https://github.com/FFF-Net/Database"><img src="https://img.icons8.com/nolan/344/database.png"></a>
 
