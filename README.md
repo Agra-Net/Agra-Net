@@ -15,13 +15,13 @@ A repository name [Minecraft-Database](https://www.github.com/FFF-Net/Minecraft-
 
 ## ⇅ Repositories
 
-[Database](https://github.com/FFF-Net/Database)
+<a href="https://github.com/FFF-Net/Database"><img src="https://img.icons8.com/nolan/344/database.png"></a>
 
-[Minecraft-Database](https://github.com/FFF-Net/Minecraft-Database)
+<a href="https://github.com/FFF-Net/Minecraft-Database"><img src="https://img.icons8.com/nolan/344/minecraft-creeper.png"></a>
 
-[batchcoding](https://github.com/FFF-Net/batchcoding)
+<a href="https://github.com/FFF-Net/batchcoding"><img src="https://img.icons8.com/fluent/344/windows-10.png"></a>
 
-[pythonbotdev](https://github.com/FFF-Net/pythonbotdev)
+<a href="https://github.com/FFF-Net/pythonbotdev"><img src="https://img.icons8.com/color/344/python.png"></a>
 
 ## ⋌ Featured Server Minecraft
 
