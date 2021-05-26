@@ -14,36 +14,39 @@ A repository name [Minecraft-Database](https://www.github.com/FFF-Net/Minecraft-
 
 
 ## ⇅ Repositories
-
+### Database
 <a href="https://github.com/FFF-Net/Database"><img src="https://img.icons8.com/nolan/344/database.png"></a>
 
+### MC-Database
 <a href="https://github.com/FFF-Net/Minecraft-Database"><img src="https://img.icons8.com/nolan/344/minecraft-creeper.png"></a>
 
+### Batch Script
 <a href="https://github.com/FFF-Net/batchcoding"><img src="https://img.icons8.com/fluent/344/windows-10.png"></a>
 
+### Python
 <a href="https://github.com/FFF-Net/pythonbotdev"><img src="https://img.icons8.com/color/344/python.png"></a>
 
 ## ⋌ Featured Server Minecraft
 
----------------------------- Cubecraft
+Cubecraft Server | Info
+---------------- | ---- 
+IP | play.cubecraft.net 
+Ports | Default 
+Discord | https://discord.com/invite/cubecraft 
 
-play.cubecraft.net
+The Hive Server | Info
+--------------- | ---- 
+IP | play.hivemc.com
+Ports | Default 
+Discord | https://discord.com/invite/hive
 
-Port : Default
+Hypixel Nethergames Server | Info
+-------------------------- | ---- 
+IP | play.nethergames.org
+Ports | Default 
+Discord | https://discord.com/invite/ng
 
----------------------------- The Hive
-
-play.hivemc.com
-
-Port : Default
-
------------------------------ Hypixel Pocket Edition
-
-play.nethergames.org
-
-Port : Default
-
-## + Minecraft Account Name!
+## + [Minecraft Account](https://github.com/FFF-Net/HHH) Name!
 - Loppy2009
 - BOSMOEDA18
 - Dx Cerberus 1
