@@ -47,22 +47,19 @@ Ports | Default
 Discord | https://discord.com/invite/ng
 
 ## + [Minecraft Account](https://github.com/FFF-Net/HHH) Name!
-- Loppy2009
-- BOSMOEDA18
-- Dx Cerberus 1
-
-## + Minecraft Favorites Friends!
-- BOSMOEDA18
-- Dx Cerberus 1
+Friends Name |
+-------------|
+Loppy2009 |
+BOSMOEDA18 |
+Dx Cerberus 1 |
 
 ## ↓ How to download
-1 - Click Database
+1. Click [View Code](#)
+2. Click File(s) what you want to download
+3. Click [Download](#)
+4. Enjoy your file(s)!
 
-2 - Click "View Code"
-
-3 - Enjoy your downloaded files!
-
-### <> Github Creator
+### <> GitHub Creator [Faris](#)
 Contact me :
 farisjihadih@outlook.com
 
