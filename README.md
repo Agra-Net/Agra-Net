@@ -13,7 +13,7 @@ Please Choose
 A repository name [Minecraft-Database](https://www.github.com/FFF-Net/Minecraft-Database) Contains a hack or cheat!
 
 
-## ⇅ Repositories
+## ⇅ Repositories (Click the image to go)
 ### Database
 <a href="https://github.com/FFF-Net/Database"><img src="https://img.icons8.com/nolan/344/database.png"></a>
 
