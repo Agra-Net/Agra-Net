@@ -4,14 +4,15 @@
 <a href="https://discord.gg/wTnMzqnJTA"><img src="https://cdn.icon-icons.com/icons2/1945/PNG/32/iconfinder-discord-4661587_122459.png"></a>
 <a href="https://www.instagram.com/loppy2009_/"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-32.png"></a>
 
-### Continue
+### Introduction
 
 Glad to meet you here 😄, Please choose a file or source code for coding
-[Download VSCode](https://code.visualstudio.com/download)
+[Download VSCode](https://code.visualstudio.com/download) 
 *Note: If you want lol*
 
 ### ⚠ Warning!
 A repository name [Minecraft-Database](https://www.github.com/FFF-Net/Minecraft-Database) Contains a hack or cheat!
+I dunno if you wanna use it lol.
 
 
 ## ⇅ Repositories (Click the *image* to go)
@@ -27,6 +28,17 @@ A repository name [Minecraft-Database](https://www.github.com/FFF-Net/Minecraft-
 ### Python
 <a href="https://github.com/FFF-Net/pythonbotdev"><img src="https://img.icons8.com/color/344/python.png"></a>
 
+## ⇅ Repositories (Click the *text* to go)
+
+### [Database](https://github.com/FFF-Net/Database)
+
+### [Minecraft Database](https://github.com/FFF-Net/Minecraft-Database)
+
+### [Batchscript](https://github.com/FFF-Net/batchscript)
+
+### [Python](https://github.com/FFF-Net/pythonbotdev)
+
+# Game
 ## ⋌ Featured Server Minecraft
 
 Cubecraft Server | Info
@@ -54,6 +66,7 @@ Loppy2009 |
 BOSMOEDA18 |
 Dx Cerberus 1 |
 
+# HowTo and Email
 ## ↓ How to download
 1. Click [View Code](#)
 2. Click File(s) what you want to download
@@ -62,6 +75,11 @@ Dx Cerberus 1 |
 
 ### <> GitHub Creator [Faris](#)
 Contact me :
-farisjihadih@outlook.com
+
+farisjihadih@outlook.com (ACTIVE)
+
+lptechub78@gmail.com (OUTDATED)
+
+playgame.farisjihadih@gmail.com (OUTDATED)
 
 
