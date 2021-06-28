@@ -10,7 +10,7 @@ Glad to meet you here 😉
 [Python](python.org)
 
 ## Social Media
-<a href="https://www.instagram.com/loppy209"><img src="https://www.iconninja.com/files/180/378/456/social-media-round-circle-social-network-photos-instagram-icon.png"></a>
+<a href="https://www.instagram.com/loppy2009_/"><img src="https://www.iconninja.com/files/180/378/456/social-media-round-circle-social-network-photos-instagram-icon.png"></a>
 
 ## Repository
 [Repository List](https://github.com/FFF-Net/replist/)
