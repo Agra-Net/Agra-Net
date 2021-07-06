@@ -7,7 +7,7 @@ Glad to meet you here 😉
 ## Tools
 [Microsoft Visual Studio Code](https://code.visualstudio.com/download)
 
-[Python](python.org)
+[Python](https://python.org)
 
 ## Social Media
 <a href="https://www.instagram.com/loppy2009_/"><img src="https://www.iconninja.com/files/180/378/456/social-media-round-circle-social-network-photos-instagram-icon.png"></a>
